@@ -43,7 +43,7 @@ const Login = () => {
             .then(() => {
               const { uid, email, displayName } = auth.currentUser;
               dispatch(addUser({ uid: uid, email: email, displayName: displayName }))
-              console.log("Profile updated");
+              
              
             })
             .catch((error) => {
@@ -63,7 +63,6 @@ const Login = () => {
       )
         .then((userCredential) => {
           const user = userCredential.user;
-          console.log(user);
           
         })
         .catch((error) => {

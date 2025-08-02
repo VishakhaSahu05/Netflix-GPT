@@ -17,6 +17,19 @@
 - Fetch Movies from TMDB
 - BugFix: SignUp user displayName 
 - BugFix: if the user is not logged in Redirect /browser to login Page and vice-versa
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to the constant file
+- Register for TMDB API & get access token
+- Get data from TMDB now playing movie list API
+- Custom Hook for NowPlayingMovies
+- create MovieSlice
+- Update store with Trailer video data
+- Planing for MainContainer & SecondaryContainer
+- Fetch Data for tariler video
+- Update store with trailer video data
+- Embedded the youtube video and make it autoplay and mute
+- Tailwind classes to make mainContainer look awesome
+
 
 # Features
 - Login/Sign-Up
