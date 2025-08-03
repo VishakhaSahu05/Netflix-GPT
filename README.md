@@ -34,6 +34,10 @@
 - Build Movie Card
 - TMDB img CDN URL
 - Made the browser page look amazing with tailwind css
+- GPT Search Feature
+- GPT Search Bar
+- (BONUS) Multi-language feature in our app
+
 
 
 # Features
